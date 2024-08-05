@@ -7,12 +7,12 @@
 ## Что дает: 
 Реализации советов из книги Джеймса Клира «Атомные привычки» через Телеграм
 ## Технологии:
-- python 3.11
+- python 3.12
 - SQL
-- django 4.2.2
+- django 5.0.6
 - PostgreSQL
 - DRF
 - Telegram
-- Celery Beat
-- Worker
+- Celery 
+- GitHub
 - Redis
