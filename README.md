@@ -1,12 +1,12 @@
 # DRF_KW_TRACKER
-# Приложение для напоминаний о полезных привычках
+# РџСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ РЅР°РїРѕРјРёРЅР°РЅРёР№ Рѕ РїРѕР»РµР·РЅС‹С… РїСЂРёРІС‹С‡РєР°С…
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
-## Что дает: 
-Реализации советов из книги Джеймса Клира «Атомные привычки» через Телеграм
-## Технологии:
+## Р§С‚Рѕ РґР°РµС‚: 
+Р РµР°Р»РёР·Р°С†РёРё СЃРѕРІРµС‚РѕРІ РёР· РєРЅРёРіРё Р”Р¶РµР№РјСЃР° РљР»РёСЂР° В«РђС‚РѕРјРЅС‹Рµ РїСЂРёРІС‹С‡РєРёВ» С‡РµСЂРµР· РўРµР»РµРіСЂР°Рј
+## РўРµС…РЅРѕР»РѕРіРёРё:
 - python 3.11
 - SQL
 - django 4.2.2
